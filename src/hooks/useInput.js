@@ -29,5 +29,3 @@ const useInput = (defaultValue, validator) => {
 };
 
 export default useInput;
-
-// timothol@yahoo.com
